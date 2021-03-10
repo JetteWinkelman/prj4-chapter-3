@@ -2,13 +2,15 @@
 * {
     margin: 0;
     padding: 0;
-    border-width: thick;
+
 }
 
 .my-container {color: black;
     border: 1px solid blue;
     text-align: center;
     background-color: lightgreen;
+	margin-right: 100px;
+	margin-left: 100px;
 }
 .my-class {color: red;
     border: 1px solid blue;
